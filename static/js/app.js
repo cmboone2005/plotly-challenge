@@ -18,6 +18,7 @@ function init() {
     });
     buildCharts(sampleNames[0]);
     buildMetadata(sampleNames[0]);
+    buildGauge(sampleNames[0]);
 })}
 
 init();  
